@@ -25,4 +25,10 @@
  - Train the SVM model - python train_model.py
  - Before jumping to test the model, if you want to insert any audio file to alert us for the stranger, you have to enter filename to run that audio. More info: https://pythonbasics.org/python-play-sound/ 
  - Test the model - python recognize_video.py
- - 
+ 
+## Prerequisites
+- Python 3.5
+- OpenCV
+```
+sudo apt-get install python-opencv
+```
