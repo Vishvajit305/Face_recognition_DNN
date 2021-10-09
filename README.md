@@ -27,8 +27,10 @@
  - Test the model - python recognize_video.py
  
 ## Prerequisites
-- Python 3.5
+- Python 3.8.1
 - OpenCV
+- Tensorflow
 ```
 sudo apt-get install python-opencv
 ```
+More info to install Tensorflow: https://cran2367.medium.com/install-and-setup-tensorflow-2-0-2c4914b9a265
